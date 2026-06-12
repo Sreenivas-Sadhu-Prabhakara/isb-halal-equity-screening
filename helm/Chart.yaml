@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-halal-equity-screening
+description: "BIAN Service Domain: Halal Equity Screening (Assess pattern, Treasury Markets and Sukuk)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - assess
+annotations:
+  isb/business-area: "Treasury Markets and Sukuk"
+  isb/business-domain: "Islamic Treasury"
+  isb/asset-type: "Equity Screening Result"
+  isb/control-record: "Equity Screening Result Assessment"
